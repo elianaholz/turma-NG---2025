@@ -1,4 +1,12 @@
 body{
     background-color: rgba(165, 63, 42, 0.911);
-    color: gainsboro;
+    color: gainsboro; 
+    margin: 0px;
+    font-family: sans-serif;
+}
+header{
+    border-bottom: solid 4px rgba(0, 255, 81, 0.601);
+    padding: 20px;
+    font-size: 32px;
+    color: black;
 }
