@@ -5,7 +5,7 @@ body{
     font-family: sans-serif;
 }
 header{
-    border-bottom: solid 4px rgba(0, 255, 81, 0.601);
+    border-bottom: dotted 4px rgba(0, 255, 81, 0.601);
     padding: 20px;
     font-size: 32px;
     color: black;
